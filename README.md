@@ -7,5 +7,11 @@ The project includes the following functions:
 - Fingerprint security.
 - Voice control.
 
+
+                Center control module
+
 ![image](https://user-images.githubusercontent.com/89629398/141228629-5c82af37-aece-4c64-9815-1877ddc4618c.png)  ![image](https://user-images.githubusercontent.com/89629398/141228659-4a755393-f77f-4a10-88f4-8944951fbc50.png)
 
+          
+                Voice control module
+![image](https://user-images.githubusercontent.com/89629398/141228847-b9844665-ee35-49ed-89d1-d265dfc8a4b1.png)
